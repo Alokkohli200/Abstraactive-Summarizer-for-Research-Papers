@@ -1,0 +1,9 @@
+transformers
+datasets
+evaluate
+rouge_score
+accelerate
+scikit-learn
+nltk
+python-docx
+torch

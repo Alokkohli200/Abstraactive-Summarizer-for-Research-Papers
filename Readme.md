@@ -13,5 +13,5 @@ The fine-tuned model weights are hosted on Hugging Face: [alokkohli200/Alok_ATML
 ## Usage
 1. Clone the repository and install dependencies:
    `pip install -r requirements.txt`
-2. Open `inference.ipynb` and replace `FILE_PATH` with your `.docx` file.
+2. Open `alok-atml-final-output.ipynb` and replace `FILE_PATH` with your `.docx` file.
 3. Run the cells to generate the summary.
